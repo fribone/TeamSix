@@ -11,4 +11,9 @@
 - 开发工具：IntelliJ IDEA 2025.3.3
 - 核心技术：Java + Spring Boot + MySQL + MyBatis（基础版）
 - 运行环境：JDK 1.8/17、Maven 3.8+
-- 
+
+## 团队成员
+- 项目经理（PM）：侯坤烨
+- 架构师/后端开发 (BE)：
+- 前端开发 (FE)：
+- 质量保证 (QA)：
