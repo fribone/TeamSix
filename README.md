@@ -11,3 +11,4 @@
 - 开发工具：IntelliJ IDEA 2025.3.3
 - 核心技术：Java + Spring Boot + MySQL + MyBatis（基础版）
 - 运行环境：JDK 1.8/17、Maven 3.8+
+- 
